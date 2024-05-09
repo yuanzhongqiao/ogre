@@ -53,8 +53,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/bumpmap.webp"><img src="/OGRECave/ogre/raw/master/Other/screenshots/bumpmap.webp" alt="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/shadows.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/shadows.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/bumpmap.webp"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/bumpmap.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/shadows.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/shadows.jpg" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -67,8 +67,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/pbr.webp"><img src="/OGRECave/ogre/raw/master/Other/screenshots/pbr.webp" alt="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/particle.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/particle.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/pbr.webp"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/pbr.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/particle.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/particle.jpg" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -81,8 +81,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/skeletal.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/skeletal.jpg" alt="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/terrain.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/terrain.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/skeletal.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/skeletal.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/terrain.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/terrain.jpg" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -95,8 +95,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/compositor.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/compositor.jpg" alt="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/volume.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/volume.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/compositor.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/compositor.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/volume.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/volume.jpg" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -109,8 +109,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/imgui.jpg"><img src="/OGRECave/ogre/raw/master/Other/screenshots/imgui.jpg" alt="" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/OGRECave/ogre/blob/master/Other/screenshots/bullet.webp"><img src="/OGRECave/ogre/raw/master/Other/screenshots/bullet.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/imgui.jpg"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/imgui.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/OGRECave/ogre/blob/master/Other/screenshots/bullet.webp"><img src="https://github.com/OGRECave/ogre/raw/master/Other/screenshots/bullet.webp" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
